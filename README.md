@@ -1,2 +1,2 @@
-- Hi, I’m @billbaederv. I'm a student in Colorado.
+- Hi, I’m @billbaederv.
 - My email address is billbaederv@gmail.com.
